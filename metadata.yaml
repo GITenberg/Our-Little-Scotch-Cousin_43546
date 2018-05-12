@@ -1,0 +1,31 @@
+_repo: Our-Little-Scotch-Cousin_43546
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43546-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McManus, Blanche
+    aliases:
+    - MacManus, Blanche
+    - Mansfield, Blanche McManus
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+description: Illustrated by the author.
+gutenberg_issued: '2013-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43546'
+  lccn: 06015109
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Scotland -- Juvenile literature'
+- !lcc 'DA'
+title: Our Little Scotch Cousin
+url: http://www.gutenberg.org/ebooks/43546
